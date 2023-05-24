@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 目前正在武汉大学读研
 - 🌱 研究方向：可信计算、AI隐私安全、可信AI
 
-![YWZ's github stats](https://github-readme-stats.vercel.app/api?username=JdYwz&show_icons=true&theme=radical) 
+![YWZ's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JdYwz&show_icons=true&theme=radical) 
