@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 目前正在武汉大学读研
+- 🔭 目前正在武汉大学读博
 - 🌱 研究方向：可信计算、AI隐私安全、可信AI
 
 ![YWZ's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JdYwz&show_icons=true&theme=algolia) 
